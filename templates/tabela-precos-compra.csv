@@ -1,0 +1,13 @@
+Coluna;Dado;Preenchimento;Tipo ;
+1;"TIPO;";Obrigat�rio ;Texto VP ou VS;
+2;"COD_ITEM;";Obrigat�rio ;Texto 23 posi��es ;
+3;"COD_ITEM_FORNECEDOR;";Opcional;Texto 30 posi��es ;
+4;"UNIDADE_MEDIDA;";Obrigat�rio ;Texto 6 posi��es;
+5;"COD_CONDICAO_PAGAMENTO;";Opcional;Texto 6 posi��es;
+6;"QUANTIDADE_MAXIMA;";Opcional;Inteiro Num�rico;
+7;"PRECO_BASE;";Obrigat�rio ;Num�rico Decimal ;
+8;"PERCENTUAL_DESCONTO;";Opcional;Num�rico Decimal ;
+9;"OBSERVACAO;";Opcional;Texto 250 posi��es;
+;;;;
+;;;;
+;;;;
